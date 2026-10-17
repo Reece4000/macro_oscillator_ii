@@ -1,0 +1,66 @@
+# macOS filesystem noise
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and local workspace state
+.vscode/
+.idea/
+.impeccable/review/
+*.swp
+*.swo
+*~
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# CMake build directories and generated files
+build/
+build-*/
+cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/CMakeConfigureLog.yaml
+/CTestTestfile.cmake
+/cmake_install.cmake
+/Makefile
+/compile_commands.json
+CMakeUserPresets.json
+
+# Ninja and Make generator state
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+
+# Compiler and linker outputs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.dSYM/
+
+# JUCE and audio plugin artifacts
+Builds/
+JuceLibraryCode/
+*_artefacts/
+*.app/
+*.vst3/
+*.component/
+*.clap/
+*.lv2/
+*.aaxplugin/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
