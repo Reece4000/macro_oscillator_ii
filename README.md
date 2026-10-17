@@ -2,7 +2,7 @@
 
 A free, open-source polyphonic synthesizer built on the Mutable Instruments Plaits macro oscillator. VST3 plugin and standalone app.
 
-Macro OSC II is the sibling of [Macro OSC](https://github.com/Reece4000/macro_oscillator), which is built on Mutable Instruments Braids. The two share their layout, controls, effects and modulation; Macro OSC II inverts Macro OSC's colour scheme.
+Macro OSC II is the sibling of [Macro OSC](https://github.com/Reece4000/macro_oscillator), which is built on Mutable Instruments Braids. The two share their layout, controls, effects and modulation.
 
 [![Latest release](https://img.shields.io/github/v/release/Reece4000/macro_oscillator_ii)](https://github.com/Reece4000/macro_oscillator_ii/releases/latest)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue)](LICENSE)
